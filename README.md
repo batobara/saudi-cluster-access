@@ -123,7 +123,3 @@ OSM extract date: 2 September 2026 (Geofabrik GCC states).
 - OpenStreetMap data © OpenStreetMap contributors, ODbL. WorldPop data CC-BY 4.0.
   GASTAT and MoH statistics remain subject to their publishers' terms.
 
-## Contact
-
-Corresponding author: Ahmed Batobara, Mel and Enid Zuckerman College of Public Health,
-University of Arizona. [email · ORCID]
